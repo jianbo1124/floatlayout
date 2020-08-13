@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="childHorizontalSpacing" format="dimension" />
+    <attr name="childVerticalSpacing" format="dimension" />
+    <attr name="maxNumber" format="integer" />
+    <declare-styleable name="FloatLayout">
+        <attr name="android:gravity" />
+        <attr name="childHorizontalSpacing" />
+        <attr name="childVerticalSpacing" />
+        <attr name="android:maxLines" />
+        <attr name="maxNumber" />
+    </declare-styleable>
+</resources>
